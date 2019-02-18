@@ -1,0 +1,5 @@
+org\nextuniverse\commands\Main.class
+org\nextuniverse\commands\Store.class
+org\nextuniverse\commands\Forums.class
+org\nextuniverse\commands\Twitter.class
+org\nextuniverse\commands\Discord.class
